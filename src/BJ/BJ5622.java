@@ -31,6 +31,6 @@ public class BJ5622 {
             else if (c >= 'W' && c <= 'Z') totalTime += 10; // 다이얼 9
         }
 
-        return totalTime;
+        return totalTime;//최종시간 반환
     }
 }
