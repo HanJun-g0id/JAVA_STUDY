@@ -17,13 +17,13 @@
 <div>
   <!--Body-->
   
-  ## 👀 About Me
+  ## 👀 About This Repository.
   #### :information_desk_person: I am a Korean university student who dreams of becoming a developer :) <br/>
   #### :fire: My goal is to commit one code every day.<br/>
   #### :mortar_board: Bachelor of Software, Sangmyung University(SMU)
   <br/>
   <!--Body-->
-  ## 👀  About This Repository.
+  ## 👀  
   #### 💡 This is where I personally solve and organize Baekjoon's problems.<br/> <br/>
   #### 📖 I aim to become a Cloud AI EngineerAs I am Korean, I inform you that all the comments are written in Korean.<br/>
   #### ❗ It's not been long since I've learned Java, so the code can be messy, weird, or inefficient.
