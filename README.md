@@ -1,16 +1,6 @@
-<div>
-
+<div>  
   <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=300&section=header&text=JAVA_STUDY%20%20🌳)
-  
-</div>
-
-<div>
-
-  <div>
-  
-  <!--Header-->
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=WELCOME%20%20🐳)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=JAVA_STUDY%20%20🌳)
   
 </div>
 
