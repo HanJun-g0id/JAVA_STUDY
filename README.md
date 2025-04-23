@@ -8,7 +8,7 @@
 <div>
   <!--Body-->
   
-  ## 👀 About This Repository.
+  ## 👀 About This Repository
   #### 💡 This is where I personally solve and organize Baekjoon's problems.<br/>
   #### 📖 I am Korean, I inform you that all the comments are written in Korean.<br/>
   #### ❗ It's not been long since I've learned Java, so the code can be messy, weird, or inefficient.
